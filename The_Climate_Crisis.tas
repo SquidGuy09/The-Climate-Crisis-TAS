@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 2220
+RecordCount: 2584
 
 console load FangameMarathon2024/BlindRace/BlindRace
 
@@ -460,4 +460,81 @@ EndRepeat
   35,U,C
   40
 
-MidwayChapterTime: 1:18.353(4609)
+#b-01
+  11
+   9,R,X
+   5,R,U,C
+  28,R,U
+  11,R,D,X
+  11,R,J
+  12,R,D,C
+   1,D
+  12,L,D,J
+  16,R,D,K
+  10,G
+  10,J
+  16,R,J
+  10,U,X
+  14,L,D
+   2,L,J,G
+  17,L,D
+   5,R,X
+   7,R
+  18,G
+  17,D
+  15,R,D,Z
+  12,R
+  12,R,J
+   7,R,K,G
+   4,R,J,G
+   7,R,D
+  12,R,X
+   8,G
+   2,L,J
+   9,L,D
+   5,L,X
+  10,L
+  10,R,D,X
+  12,D
+   5,D,X
+   8
+  14
+   9,U,X
+   5,U,C
+  10,U
+  28,L,J
+  24,G
+  14,R,J
+  19,R,X
+   5,D,C
+   8,D
+   9
+   2,R,J
+   5,U,X
+   3,U
+   5,R,X
+   6,R
+   4,R
+  11,R,D,X
+  12,L,J
+   5,U,X
+  27,R,U
+  19,D,X
+   8,L,C
+  23,L,J
+  12,L,U,X
+  29,R,D
+   9,R
+   5,R,X
+  10,R
+  17,R,D,X
+  38,R,J
+  14,R,U,X
+  25,R,J
+  14,R,D,X
+   6,R,J
+  10,R,D,C
+   2,R,J
+
+
+MidwayChapterTime: 1:31.307(5371)
