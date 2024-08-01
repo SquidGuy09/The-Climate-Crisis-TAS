@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 3353
+RecordCount: 3504
 
 console load FangameMarathon2024/BlindRace/BlindRace
 
@@ -528,7 +528,7 @@ EndRepeat
    8,R,D,X
   40
 
-#lvl_b-02
+#lvl_b-02 (Spooooky)
    3,R,J
   10,R
    3,R,J
@@ -594,43 +594,22 @@ EndRepeat
   13,R,D,X
    4,R,J
   47,R,D,C
-   1,R,J
-  11,R
-  30,R,K
-  26,R,J
-  37,R,K
-   1,R,J
-  21,R
-   5,R
-  55,R,K
-   2,R,J,G
-   2,R,K,G
-   1,K
-   2,R
-   1,R
-   1,R,J,G
-  11,R
-   1,R,J
-   1,R,J
-   4,R
-   5,R,D,X
-   3,R,K,G
-   6,R
-   1,R,J
-   2,R
-   2,J
+ 118,R
+  36,R,J
+   1
    2
+  11,R,K,G
+   6,R
+   4,R,J
   40
 
-
 #lvl_b-key
-   3
-  15,R,D,X
-  19,D
+  33,D
    1,N
   49
 
 #lvl_hub (2)
 
 
-MidwayChapterTime: 1:44.890(6170)
+MidwayChapterTime: 1:43.972(6116)
+
