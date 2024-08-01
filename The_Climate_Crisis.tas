@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 3299
+RecordCount: 3353
 
 console load FangameMarathon2024/BlindRace/BlindRace
 
@@ -317,7 +317,6 @@ EndStunPause
    1,N
   26
 
-# it may be possible to skip the entire room if you can activate the block by dashing and spike climb/grabbing, my attempts went to nothing though
 #lvl_b-intro
   24
    4,L,Z
@@ -351,38 +350,24 @@ EndStunPause
    4,R,J
   15,R,D,X
    1,R,J
-   5,R
-   2,R,J
-  15,D,X
-   2,D
-   6,R,D
-   1
-   1,R
-   1
-  10,R,Z
-   1,R,J
-   4,R
-  11,R,D,X
-   1,R,K,G
-  13,R
-   5,R,J
+   3,R
+  15,R,U,X
   10,R
    1,R,G
-  14,L,D,X
-   1,L,J
-  11,L,D,X
-   1,L,J
-   7,L
-   1,L,J
-   6,L
-   8
-   3,L,G
-  10,J
-   9,R,J
-  15,U,X
-   8
- 130,R,C
-   6,R
+   2
+   2,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,L,K
+  12,R
+   7
+ 136,R,C
   14,R,D,X
    5,R,J
    2,R
@@ -648,4 +633,4 @@ EndRepeat
 #lvl_hub (2)
 
 
-MidwayChapterTime: 1:46.658(6274)
+MidwayChapterTime: 1:44.890(6170)
