@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 3504
+RecordCount: 3972
 
 console load FangameMarathon2024/BlindRace/BlindRace
 
@@ -278,7 +278,7 @@ EndStunPause
   14,R,U,X
    4,R,J,G
    3,R,K,G
-   6,R
+   5,R
   30,N
 
 
@@ -290,7 +290,7 @@ EndStunPause
    1,R,J
   15,R,D,X
    1,R
-  34
+  35
 
    8,L,Z
    1,L,J
@@ -369,36 +369,32 @@ EndStunPause
    7
  136,R,C
   14,R,D,X
-   5,R,J
-   2,R
-   8,R,D,X
-   1,R,J,G
-   6,R
-  40,J
+   1,R,J
+  14,R,D,X
+   1,R,J
+  40
 
 #lvl_b-00 (Ricky)
-   1,R,J
-   4,R
-   1,R,J
-   6,R,D,X
+  12,R,D,X
    1,R,J
    3,R
    1,R,J
    3,R
-   8,R,J
-   1,R
+   3,R,J
+   3,J
+   2,R,J
+   8,R
    4
-   1,J
-   1
-  14,R
+   7,R
    3,R,D
    1,R
    1,R,D
-  11,R,Z
+   1,R
+  12,R,Z
    1,R,J
   50,R
    4,R,J
-  19,R,D,X
+  18,R,D,X
   15,R,C
   12,L,X
   15,R,C
@@ -409,13 +405,16 @@ EndStunPause
   12,L,Z
   10,L,J
   12,L
+   1
   25,U,X
-   6,L,J
+   8,L,J
+  18,L
+  15,L,U,X
+   2,L
+   1,L,K,G
+   1,L,J,G
   13,L
-   9,L,U,X
-  17,L
-   5,L
-Repeat,11
+Repeat,10
    1,L,J
   14,L
 EndRepeat
@@ -424,25 +423,26 @@ EndRepeat
   14,L
    1,L,J
   14,L
-  12,L,J
+  11,L,J
   15,U,X
-  15,U,C
-  16,L
-  12,R
-   5,R,Z
-  24,R,J
-   1,G
-  20,L,J
-  10,L
-   1
-   1,K
-   2
+   2,R
+  13,L,C
+   8,J
+   5,L
+   3,L,J
+   5,L
+   4,Z
+  26,R,J
+   1,R,G
+  19,L,J
+  11,L
+   3,K
    1,J
    1,L,K,G
    1,L,J,G
-  13,R
+  12,R
    1,R,J
-   7,R
+   9,R
   15,D,X
    9
    1,R,J
@@ -454,11 +454,15 @@ EndRepeat
   40
 
 #lvl_b-01 (Tear)
-  11
-   9,R,X
-   5,R,U,C
-  28,R,U
-  10,R,D,X
+   1,L,J
+   3,L
+   1,K
+   3,R
+   1,N
+   3,R
+  11,R,U,X
+  29,R,U,C
+  12,R,Z
   12,R,J
   11,R,D,X
    9,L,J
@@ -520,21 +524,19 @@ EndRepeat
   15,U,X
   14,R
   15,R,X
-  20,R,D
-   6,Z
+  20,R
+   7,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    8,R,D,X
   40
 
 #lvl_b-02 (Spooooky)
    3,R,J
-  10,R
-   3,R,J
-  11,R,X
-   5,R,C
-  22,R
+   4,R
+  14,R,X
+  27,R,C
   21,D
   11,L,D
   11,L,D,X
@@ -587,29 +589,41 @@ EndRepeat
    5,L,D,C
    5,L,D
    4,R,J
-   5,R,X
-  38,R
-  11,R,J
-   6,R
-  13,R,D,X
-   4,R,J
-  47,R,D,C
- 118,R
-  36,R,J
-   1
-   2
-  11,R,K,G
-   6,R
-   4,R,J
+  40,R,X
+  15,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+   1,L,K,G
+# waiting for the block to move up
+  15
+# 
+   4,R
+  35,R,D
+  95,R
+   1,R,J
+   1,J
+   8,R,J
+   1,J
+  21,R,J
+   1,R
+   3,R,J
+   1,R,K,G
+   1,R
+   8,R,K,G
+  11,R,J,G
+   7
+   2,J
   40
 
+
 #lvl_b-key
-  33,D
+  32,D
    1,N
-  49
+  50
 
 #lvl_hub (2)
 
 
-MidwayChapterTime: 1:43.972(6116)
+MidwayChapterTime: 1:43.343(6079)
 
