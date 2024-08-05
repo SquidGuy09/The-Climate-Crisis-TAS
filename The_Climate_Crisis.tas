@@ -1,10 +1,9 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 3972
+RecordCount: 4449
 
 console load FangameMarathon2024/BlindRace/BlindRace
-
    1
 
 #Start
@@ -26,12 +25,10 @@ console load FangameMarathon2024/BlindRace/BlindRace
   40
 
 #lvl_hub (0)
-# 
    3,J
   15,R,D,X
    1,R,J
   15,R,D,X
-# subpixels matter here for some reason :|
    1,N
   27
 
@@ -291,7 +288,6 @@ EndStunPause
   15,R,D,X
    1,R
   35
-
    8,L,Z
    1,L,J
    2,L
@@ -532,63 +528,53 @@ EndRepeat
    8,R,D,X
   40
 
+# room is entirely dependent on the green LinkedZipMover 
 #lvl_b-02 (Spooooky)
    3,R,J
    4,R
   14,R,X
   27,R,C
-  21,D
-  11,L,D
-  11,L,D,X
-   4,L,J
-  20,L,D,C
-  14,G
-  19,R,J
-  15,L,U,X
-  11,R,D,C
-   5,R,X
-  24,R
-   8,U,X
-  11,J
-   5,L,D
-  10,R,D
-   7,L,X
-  11,R,J
-  27,R,D,X
-   5,L,D,C
-  11,L,D
-  14,R,D,X
-  21,R,J
-  11,R,D,X
-   5,R,J
-  10,R
-   7,U,X
-   5,R,U,C
-  24,R,U
+   1
    1,J
-  13
-   1,J
-   7
-  20,L,K
-  23,R,D
-   8,R,D,X
-   5,L,D,C
-  10,L,D
-  11,R,U,X
-   5,R,C
-  90,R
-   9,R,D,X
-   5,D,C
-  10,D
-  11,U,X
-   5,U,C
-  24,U
+  10,R,J
+  23,R
+  12,U,X
+   6,L,J
+  13,L
+  10,L,D,X
+   7,R,J
+  15,R,D,X
+  12,R
+  15,L,D,X
+  14,R,D,C
+  28,R,J
+  15,R,C
+   1
+   9,R
+   1,R,K,G
+  13,R
+  14,L,D,X
+   6,L,K
+  14,L,D,X
+  21,L,K
+  13,U,X
+  94,R,C
+  10,R,D,X
+  15,D,C
+   9,U,X
+   1
+  29,U,C
   10,L,D,X
   18,R,J
   22,D,X
-   5,L,D,C
-   5,L,D
-   4,R,J
+  15
+  15,U,C
+  12,D,X
+  15,U,C
+  12,D,X
+  15
+  11,L,D,C
+   3,R,J
   40,R,X
   15,R,J
   14,R,D,X
@@ -596,34 +582,33 @@ EndRepeat
    5,R,D,X
    1,L,K,G
 # waiting for the block to move up
-  15
+  13
 # 
    4,R
   35,R,D
-  95,R
-   1,R,J
-   1,J
-   8,R,J
+  93,R
+  10,R,J
    1,J
   21,R,J
    1,R
-   3,R,J
+   1,J
+   1,J
    1,R,K,G
    1,R
-   8,R,K,G
-  11,R,J,G
-   7
-   2,J
+   7,R,K,G
+   6,R,J,G
+   5,J
+   8
   40
 
-
 #lvl_b-key
-  32,D
+   1
+  31,D
    1,N
   50
 
 #lvl_hub (2)
 
 
-MidwayChapterTime: 1:43.343(6079)
+MidwayChapterTime: 1:41.915(5995)
 
