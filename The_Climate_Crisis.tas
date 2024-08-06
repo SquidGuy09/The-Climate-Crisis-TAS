@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 5020
+RecordCount: 5302
 
 console load FangameMarathon2024/BlindRace/BlindRace
    1
@@ -496,6 +496,150 @@ EndStunPause
    7,R,J
    6,R
    1,N
-  50
+  25
 
-MidwayChapterTime: 1:20.019(4707)
+
+#lvl_hub (3)
+  25
+  15,L,Z
+  15,D,C
+   9,D
+# wait for the key to enter the door
+  24
+   1,N
+  26
+
+#lvl_combo ac-00 (Tear)
+  25
+   4,Z
+   1,R,J
+   3,R
+   1,R,K,G
+   9,R
+  13,R,J
+  35,R,G
+  35,R,D,G
+   1,D
+  22,R,X
+  25,L,J,G
+  21,R,J,G
+   1,R
+   7,R
+  13,R,U,X
+  30,R,G
+  47,R,D,G
+   1,R
+  14,L,Z
+   1,R,J
+   7,R
+  11,R,J
+  27,J,G
+   4
+  15,L,U,X
+  22,C
+  70,R,G
+
+  21,R,D,G
+   1,D
+  27,R,X
+   4,R,K
+   8,R,J
+   5,R
+   4,R,J
+  15,R,Z
+   3
+  20,R,D
+  16,L,D
+  16,R,D
+  36,X
+  12
+  29,U,X
+  18,L,C
+  15,R,X
+  32,U,C
+   1
+   5,L
+  15,U,C
+  15,U,X
+  11,L
+   7,L,J
+   1,L
+  10,L,Z
+   2,L,J
+   3,L
+  17,L,D,X
+   1,N
+  25
+
+#lvl_hub (4)
+  25
+   4,X
+  12,L,J
+   3,L,K,G
+   6,L
+   2,L,J
+   4,Z
+   1,L,J
+   5,L,K,G
+   2,L,J,G
+  11,L
+   4,R,Z
+   1,R,J
+   6,R
+  15,R,J
+
+  65
+   4,Z
+   1,L,J
+   7,L
+   3,L,J
+  15,L,D,X
+   6,L,J
+   6,L,K,G
+  12,L,D,X
+   1,R,J
+   7,R
+  10,R,J
+   4,R
+   1,L,K,G
+   1,R
+  15,R,Z
+   4,R
+  39
+  14,R,Z
+   1,L,J
+   7,L
+   3,L,J
+  15,L,D,X
+   1,L,J
+   4,L
+  15,L,D,X
+   7,L,J
+  40
+
+
+#lvl_hub-02
+   5,L,J
+   5,L
+   1,L
+   2,L
+  15,L,D,X
+   2,L
+   1,L,J
+   1,L,K,G
+   1,L,J
+  16,L
+   1,L,J
+   2,L
+  15,L,D,X
+   2,L
+   1,N
+  26
+
+
+#lvl_combo-abc-00
+  24
+
+
+
+MidwayChapterTime: 1:41.915(5995)
