@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 4449
+RecordCount: 5020
 
 console load FangameMarathon2024/BlindRace/BlindRace
    1
@@ -308,307 +308,194 @@ EndStunPause
    4,R,J
   15,R,D,X
   40,R,D
-  15,R,D,X
-   7,R,D
+  10,R,D
+   3
+   1,D
+   7,L,Z
+StunPause
+   1,L,J
+   6,L
+   1,L,J
+SkipInput 3 1
+  11,L,D,X
+   4,L,J
+SkipInput 3 1
+   8,L,U,Z
+EndStunPause
+   7,L,U,Z
+  10,L
+  28,D
    1,N
   26
 
-#lvl_b-intro
-  24
-   4,L,Z
-   1,L,J
-  15,L
-   1,L,D
-   7,D
+
+#lvl_combo-bc-00 (Tear)
+  25
+   4,Z
+   1,R,J
+   7,R
+   7,R,J
+   6,R
+  22,R,G
    1,R,D
-   1,D
-   3,R,D
-   1,D
-   2
-   1
-   1,D
-   1
-  13,R,D,X
+   7,R
+  30,L,U,Z,G
+   9,L,G
+   1,R
+   1,L,K,G
+   7,L
+  30,L,G
+  10,L
+   1,K
+   1,L,J,G
+  13,R,G
+  24,R,G
+   6,R
+  23,R,X
+  22,R,G
+  18,U,X,G
+  15,R,Z,G
+   2,R
+   1,R
    5,R,J
-   3,R
-   8,R,D,X
-   1,R,K,G
-   7,R
+  13,R,Z
    1,R,J
-   3,R
-  19,R,J
-  14,R,U,X
+   7,R
+  14,L,Z
+   2,R,J
+   5,R,D,X
+  13,R,G
+  12,J,G
+   1,R
+  60,R,U,J,X,G
+  20,R,U,G
+   1,R
+   6
+   5,R,U,X
+  37,R,G
+   1,L
+   5,R
+  12,R,J
    2,R,K,G
-   5,R,J,G
-   7,R
-   1,R,J
-   2,J
-   4,R,J
-  15,R,D,X
-   1,R,J
-   3,R
+  10,R,X
+   3,R,J
+   5,R
   15,R,U,X
   10,R
+   2,R,G
+   4
    1,R,G
    2
-   2,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   1,L,K
-  12,R
-   7
- 136,R,C
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  40
-
-#lvl_b-00 (Ricky)
-  12,R,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-   3,R,J
-   3,J
-   2,R,J
+   1,R,G
+   3
+   1,R,G
+   3
+   1,R,G
+   6
+   1,R,G
+   1,R,K,G
    8,R
-   4
-   7,R
-   3,R,D
-   1,R
-   1,R,D
-   1,R
-  12,R,Z
-   1,R,J
-  50,R
-   4,R,J
-  18,R,D,X
-  15,R,C
-  12,L,X
-  15,R,C
-  23,D
-   7,R,D
-  15,R,D,X
-   4,L
-  12,L,Z
-  10,L,J
-  12,L
-   1
-  25,U,X
-   8,L,J
-  18,L
-  15,L,U,X
-   2,L
-   1,L,K,G
-   1,L,J,G
-  13,L
-Repeat,10
-   1,L,J
-  14,L
-EndRepeat
-   2,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  11,L,J
+   6,R,J
   15,U,X
-   2,R
-  13,L,C
-   8,J
-   5,L
+   1
+   1,L,K,G
+  12,L,J,G
+   7,L
+   7,L,J
+   5,X
    3,L,J
    5,L
-   4,Z
-  26,R,J
-   1,R,G
-  19,L,J
-  11,L
-   3,K
-   1,J
-   1,L,K,G
-   1,L,J,G
-  12,R
-   1,R,J
-   9,R
-  15,D,X
-   9
-   1,R,J
-  13,R
-  10,R,X
-  18,J
-  16,U,X
-  35,U,C
-  40
-
-#lvl_b-01 (Tear)
-   1,L,J
-   3,L
-   1,K
-   3,R
-   1,N
-   3,R
-  11,R,U,X
-  29,R,U,C
-  12,R,Z
-  12,R,J
-  11,R,D,X
-   9,L,J
-   3
-  18,R,K
-  10,G
-  10,J
-  16,R,J
-  15,U,X
-   7,L
-   2
-   1,L,J,G
-  17,L
-  12,R,X
-  18,G
-  17,D
-  15,R,D,X
-  23,R
-   1
-   1,K,G
-   1,L,K
-   1,R,J,G
-   3,R,K,G
-   1,R,J,G
-   8,R,K,G
-  12,R,X
-   1,G
    2,L,J
-   8,L,X
-  15,L,C
-  15,R,D,X
-   7,D
-  15,D,X
-#wait here because block
-   2
-#
-   9,U,C
-  17,U,X
-  28,L,J
-   2,G
-  16,R,J
-  17,R,X
-  15,D,C
-   9,U,X
-  15,R,C
-  11,R,D,X
-  10,L,J
-#wait here for block
-  11
-#
-  31,U,X
-  15,L,D,C
-  20,L,X
+  14,L,D
+   1,N
+  24
 
-  15,R,C
-  16,R,D,X
-  14,R,D,C
-  30,R,J
+#lvl_hub (2)
+  26
+   7,L,J
+   1,J
+   3
   15,U,X
-  14,R
-  15,R,X
-  20,R
-   7,Z
-   1,R,J
-   6,R
-   1,R,J
-   8,R,D,X
-  40
-
-# room is entirely dependent on the green LinkedZipMover 
-#lvl_b-02 (Spooooky)
-   3,R,J
-   4,R
-  14,R,X
-  27,R,C
    1
-   1,J
-  10,R,J
-  23,R
-  12,U,X
-   6,L,J
-  13,L
-  10,L,D,X
-   7,R,J
-  15,R,D,X
-  12,R
-  15,L,D,X
-  14,R,D,C
-  28,R,J
-  15,R,C
-   1
-   9,R
-   1,R,K,G
-  13,R
-  14,L,D,X
-   6,L,K
-  14,L,D,X
-  21,L,K
-  13,U,X
-  94,R,C
-  10,R,D,X
-  15,D,C
-   9,U,X
-   1
-  29,U,C
-  10,L,D,X
-  18,R,J
-  22,D,X
-  15
-  15,U,C
-  12,D,X
-  15,U,C
-  12,D,X
-  15
-  11,L,D,C
-   3,R,J
-  40,R,X
-  15,R,J
-  14,R,D,X
-   1,R,J
-   5,R,D,X
+   1,L
    1,L,K,G
-# waiting for the block to move up
-  13
-# 
-   4,R
-  35,R,D
-  93,R
-  10,R,J
-   1,J
-  21,R,J
-   1,R
-   1,J
-   1,J
-   1,R,K,G
-   1,R
-   7,R,K,G
-   6,R,J,G
-   5,J
-   8
-  40
+   1,L
+   1,L,J,G
+  10,L
+   1,N
+  24
 
-#lvl_b-key
-   1
-  31,D
+
+#lvl_combo-ab-00 (Spooooky)
+  27
+   5,L,Z
+   1,R,J
+   7,R
+  14,R,J
+  15,R,D,X
+  19,R,D
+   4,Z
+  10,R,J
+  15,R,D,X
+   7,R,C
+StunPause 
+   5,R,C
+EndStunPause
+   3,R,C
+   4,R
+  11,L,D,X
+   3,R,J
+  61,R,X
+  15,R,C
+   3,R
+   7
+   7,L,X
+  10,R,J
+   9,R
+   3,R,J
+   6,R
+  17,R,Z
+  15,L,U,C
+  24,L
+   3,L,G
+  12,L
+  12,L,G
+   9
+   5,L,G
+   1,J
+   1,L,K,G
+   1,L,J,G
+   2,R,J
+  25,R,D,X
+   4,D
+   3,R
+  10,R,D,J
+   1,R,J
+StunPause
+   2,R
+   2,R,K,G
+EndStunPause
+   2,R,K
+  13,R,U,X
+   5,K,G
+  21,L,K
+  24,L,G
+   1,K
+   1,L,J,G
+   1,L,K,G
+   5,R,K
+  80,R
+   7
+  14,L,C
+   1,R,J
+   5,U,X
+   7,R,K
+   1,R,J,G
+   8,R
+   4,Z
+   7,R,J
+   6,R
    1,N
   50
 
-#lvl_hub (2)
-
-
-MidwayChapterTime: 1:41.915(5995)
-
+MidwayChapterTime: 1:20.019(4707)
