@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 5596
+RecordCount: 6332
 
 console load FangameMarathon2024/BlindRace/BlindRace
    1
@@ -365,21 +365,26 @@ EndStunPause
    2,R,J
    5,R,D,X
   13,R,G
-  12,J,G
+  15,J,G
    1,R
-  60,R,U,J,X,G
-  20,R,U,G
+  16,R,U,X
+   4,R,J
+  32,R,K
+  15,R,U,X
+   1,K
+  18,R
+   2,R,D
    1,R
-   6
-   5,R,U,X
-  37,R,G
-   1,L
-   5,R
-  12,R,J
-   2,R,K,G
-  10,R,X
-   3,R,J
-   5,R
+   2,R,D
+   1,R,K,G
+   1,R,J,G
+  10,R
+  11,R,J
+  14,R,X
+   4,R,J
+   9,R
+   1,R,J
+   1,R
   15,R,U,X
   10,R
    2,R,G
@@ -391,7 +396,7 @@ EndStunPause
    1,R,G
    3
    1,R,G
-   6
+   5
    1,R,G
    1,R,K,G
    8,R
@@ -428,6 +433,7 @@ EndStunPause
 
 #lvl_combo-ab-00 (Spooooky)
   27
+   1
    5,L,Z
    1,R,J
    7,R
@@ -637,105 +643,121 @@ EndStunPause
   26
 
 #lvl_combo-abc-00
-  24
-  11,L,D,X
-  26,R,J
-  10,R,X
-   5,R,J
-  11,R,D,X
-   3,R,J
-   7,R,K,G
-  11,R,U,X
-   5,R,J,G
-   8,R,D
+  25
    1,L,J
-   6,L
-  10,R,D,X
-   6,R,J
-   2,R
-  13,R,D,X
-   1,R,J
-   5,R,K,G
+  10,R,Z
+   9,R,J
+  14,R,Z
+  10,R,J
+   4,R
+   2,R,J
+  14,R,U,X
+   2,R,K,G
    5,R
-   2,R,J,G
-  10,R,D,X
-   5,R,J
+  21,R,K
+   4,Z
+   1,R,J
+   6,R,K,G
+   8,R
+   3,R,J
   23,R,D,X
-  16,R,J
-  11,R,D,X
+   6,R,J
+   5,R
+   2,R,J
+  12,R,Z
    3,L,J
-   3,L
   27,L,D,X
   38,R,J
-  21,R,X
-  20,R,C
-  10,R,X
-   5,U,C
-  18,U
-   7,U
+  16,R,X
+  16,R,C
+  16,R,X
+  30,U,C
   15,D
-   5,R,D,X
-  12,R,D
-  26,D
-   4,L,X
-   4,L,J
-  11,L
-  17,L,U,X
-  33,R,J
-  21,R,X
-  19,R,C
-   6,R,X
-   5,D,C
-  16,D
-   9,U,X
-  19,U,G
+  21,R,D,X
+  14,R,Z
+   1,L,Z
+   1
+   6,J,G
+   3,R,J
+   3,R
+  20,R,X
+  20,D,C
+  11,U,X
+  16,U,G
   13,R,X,G
-  21,R,J,G
-   7,R,G
-  17,L,J,G
-  32,R,K,G
-  10,R,U,X
-  47,R,U,G
-   1,L
-   8,R,D
-  12,L,D,X
-  11,L,J
-  10,L,U,X
-   5,R,C
-  24,R
-  14,L,U,X
-   3,R,J
-  20,R,D,C
-   7,R,J
-  40,R,J,G
-  15,R,X
-  19,L,U,C
-   4,R,D,X
-  34,R,J
-  12,L,D
-  17,L,X
-   2,R,J
-  20,R,D,C
-  24,R,J
-   9,L,X
-  36,G
-  29,R,J
-  26,L,X
-   2,L,G
-  22,G
+  14,R,K,G
+   7,K,G
+  12,J,G
+   1,K
+  12,L,K
+   1,J,G
    1,R,J
-  24,R,D,X
-   3,R,J
-  21,R
-  20,D
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  35,R,U,J,G
+   1,R
+  16,R,U,X
+  15,R,K,G
+  29,R,G
+   1,R
   11,L,D,X
-  35,L,J
-  13,L,D,C
-  29,R
-  14,R,D,X
-  27,R,J
-  16,R
-  18,R,X
+   6,L,J
+  11,U,X
+  10,R
+  13,L,U,X
+   1,R
+  19,R,D,X
+   1,R,J
+  46,R,J,G
+   1,R
+  16,R,U,X
+   4,Z
+   9,R,J
+  13,R,D
+   4,R
+   9
+  18,L,D,X
+   2,R
+  15,R,D,X
+   6,R
+  11,L,Z
+   1,R,J
+   3
+   1,R,J
+   3,R
+   5,R,D,J
+   5,R
+   3,J
+   1,R,J
+  15,U,X
+  14,L
+   1,L,G
+  15,L,D
+   5,L,G
+   1,K
+   1,L,J,G
+   1,L,K,G
+  28,R,D
+   1,R,J
+  15,R
+   4,R,J
+  15,R,D,X
+   4,D
+   8,L,D
+   4,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L
+   2,L,J
+  26,L,D
+   8,L,D,X
+   1,R,J
+   7,R
+   4,R,J
+  36,R
+  16,R,X
  355,R,C
   40
 
@@ -761,5 +783,4 @@ EndStunPause
    1,L,J
   13,R,U,X
  135
-
-ChapterTime: 2:13.569(7857)
+ChapterTime: 2:08.673(7569)
