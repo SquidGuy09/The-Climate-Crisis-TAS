@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 6332
+RecordCount: 6831
 
 console load FangameMarathon2024/BlindRace/BlindRace
    1
@@ -65,7 +65,6 @@ console load FangameMarathon2024/BlindRace/BlindRace
   15,R,V
    5,R
   10,L,U,X
-
    6
   41,R
    3
@@ -132,7 +131,7 @@ EndStunPause
   16,R,X
   12,R
 # a-01
-   2
+   1
 # spinner cycle
    6,R,Z
    1,R,J
@@ -155,53 +154,61 @@ EndStunPause
   15,R,U,X
   15,R,C
    7,D,X
-  22,R
-  15,R,C
-   6
-   1,L
-  15,L,U,X
-   6
-  16,R,D,X
-  10,R,J
-   7,R
-   1,R,J
-   7,R
-  15,R,X
-  26,L
-   3,G
-  12
-   8,D
-   3
-   4,L
-   1,D
-   2,L,D
-  47,R,J
-  33,L
   25,R
-  13,U,X
-   4,J
-stunpause
-   9,J
+  18,R,C
+   6,R,X
+   6,R,J
+   2,R
+   1,L,K,G
+  10,R,K
+   7,R
+   1,R,G
+   2
+   1,R,G
+   3,R,K,G
+  11,R,D
+  10,D
+   6,L,D
+   7,L,G
+   7,J
+  15,R,Z
+   8,R
+  10
+  23,L
+  28,R
+   1,K
+   4,R,K
+   1,R
+   8,U,X
+   1,J
+StunPause
+  12,J
    2,L,J
 SkipInput 3 1
   15,U,X
 SkipInput 3 1
   12,U,C
-endstunpause
-  13,U,C
-   6,R,U,X
-   6
-  18,L
-  16,R
-  15,R,X
-  16
-   3,R
-   1,L
+EndStunPause
+   2,U,C
+   2
+  12,J
+   2
+  15,R,U,Z
+  22,R
+   4
    5,L,X
    6
   41,R
-   2,R,J,G
-   7,R
+   1,R,K,G
+   1,R
+   1,R,K,G
+   3,R
+   2
+   1,R
+   1
+# cycle a-02
+   2
+# 
    7,L,D,X
    2,R,J
    1,R
@@ -266,21 +273,24 @@ EndStunPause
 
 #a-key
    8,R,D
-   7,R,J
-   6,R,K,G
-   5,J,G
-   5,R,J
+   4,R,J
+   9,R,K,G
+   1,R,J,G
+   3,J
+   6,R,J
   13,R,D,X
    3,R,J
   14,R,U,X
-   4,R,J,G
-   3,R,K,G
-   5,R
-  30,N
+   4,R,K,G
+   3,R,J,G
+   6,R
+   1,N
+  25
 
 
 #lvl_hub (1)
-  24
+  25
+   2
    6,R,Z
    1,R,J
    7,R
@@ -401,6 +411,7 @@ EndStunPause
    1,R,K,G
    8,R
    6,R,J
+
   15,U,X
    1
    1,L,K,G
@@ -417,23 +428,22 @@ EndStunPause
 
 #lvl_hub (2)
   26
-   7,L,J
-   1,J
-   3
-  15,U,X
-   1
-   1,L
-   1,L,K,G
-   1,L
-   1,L,J,G
-  10,L
+   1,R,J
+  10,L,Z
+   1,L,J
+   8,L
+   8,L,J
+   8,U,X
+  11,R,J
+  17,R
+   9
+   2
    1,N
   24
 
 
 #lvl_combo-ab-00 (Spooooky)
   27
-   1
    5,L,Z
    1,R,J
    7,R
@@ -464,32 +474,38 @@ EndStunPause
   15,L,U,C
   24,L
    3,L,G
-  12,L
+   1,L
+   1,L,G
+  10,L
   12,L,G
-   9
-   5,L,G
-   1,J
+  11
+   1,L,G
+   6
+   1,J,G
+   1,R
+   1,L
    1,L,K,G
    1,L,J,G
-   2,R,J
-  25,R,D,X
-   4,D
-   3,R
-  10,R,D,J
-   1,R,J
-StunPause
-   2,R
-   2,R,K,G
+   1,L,K,G
+  15,R,D,X
+  13,R,D
+   1,R,D,J
+   3,J
+   6,R,D,J
+StunPause 
+   1,R,D
+SkipInput 3 1
+   5,R,U,X
 EndStunPause
-   2,R,K
-  13,R,U,X
-   5,K,G
+   9,R,U,X
+   1,K,G
+   7,R,K
   21,L,K
   24,L,G
    1,K
    1,L,J,G
    1,L,K,G
-   5,R,K
+   4,R,K
   80,R
    7
   14,L,C
@@ -497,21 +513,25 @@ EndStunPause
    5,U,X
    7,R,K
    1,R,J,G
-   8,R
+   6,R
    4,Z
    7,R,J
-   6,R
+   7,R
    1,N
   25
 
 
 #lvl_hub (3)
   25
-  15,L,Z
-  15,D,C
-   9,D
+  10,L,Z
+   5,L,J
+  15,L,D,X
+   4,Z
+   1,R,J
+  25,D
+   8,L
 # wait for the key to enter the door
-  24
+   8
    1,N
   26
 
@@ -544,7 +564,6 @@ EndStunPause
   15,L,U,X
   22,C
   70,R,G
-
   21,R,D,G
    1,D
   27,R,X
@@ -589,19 +608,6 @@ EndStunPause
    5,L,K,G
    2,L,J,G
   11,L
-   4,R,Z
-   1,R,J
-   6,R
-  15,R,J
-
-  65
-   4,Z
-   1,L,J
-   7,L
-   3,L,J
-  15,L,D,X
-   6,L,J
-   6,L,K,G
   12,L,D,X
    1,R,J
    7,R
@@ -611,7 +617,7 @@ EndStunPause
    1,R
   15,R,Z
    4,R
-  39
+  26
   14,R,Z
    1,L,J
    7,L
@@ -714,14 +720,12 @@ EndStunPause
   16,R,U,X
    4,Z
    9,R,J
-  13,R,D
-   4,R
-   9
-  18,L,D,X
-   2,R
-  15,R,D,X
+  20,R,D
+  21
+   9,R,D,X
+   1,R,J
    6,R
-  11,L,Z
+  10,L,D,X
    1,R,J
    3
    1,R,J
@@ -729,13 +733,13 @@ EndStunPause
    5,R,D,J
    5,R
    3,J
-   1,R,J
+   1,R
   15,U,X
-  14,L
+  13,L
    1,L,G
-  15,L,D
-   5,L,G
-   1,K
+  16,L,D
+   1,L,G
+   1,L,K,G
    1,L,J,G
    1,L,K,G
   28,R,D
@@ -758,29 +762,37 @@ EndStunPause
    4,R,J
   36,R
   16,R,X
- 355,R,C
+ 350,R,C
+   1
+   8,R,U,X
+   2,R,K,G
+   1,J
   40
 
 #lvl_combo-abc-heart
-  11
-  10,R,D,X
-   2,R,J
-   2,R,K,G
-  12,R
-   1,R,J
-   3,R
-   3,R,K,G
-   5,R,D,X
-   5,R,J,G
    1,R,K,G
+   1,R
+   3,R,K,G
+   2,R
+   1,R,K,G
+   3,R
+   6,R,D,X
+   1,R,J
+   7,R
+   3,R,J
+   4,R,K,G
+   5,R,D,X
+   4,R,K,G
+   1,R,J,G
   16,R
    2,R,J
-   6,R,U,X
-  10,R,J,G
+  11,R,U,X
+   2,R,K,G
    7,R
-  12,R,J
+  13,R,J
   15,R,D,X
-   1,L,J
-  13,R,U,X
+   1,R,J
+  12,R,U,C
  135
-ChapterTime: 2:08.673(7569)
+
+ChapterTime: 2:05.647(7391)
