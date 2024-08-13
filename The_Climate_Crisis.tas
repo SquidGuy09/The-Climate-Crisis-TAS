@@ -1,13 +1,13 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 6836
+RecordCount: 6838
 
 console load FangameMarathon2024/BlindRace/BlindRace
    1
 
 #Start
- 388
+ 507
 
 #lvl_hub-00
   14,R,Z
@@ -35,7 +35,7 @@ console load FangameMarathon2024/BlindRace/BlindRace
 #lvl_a-intro
   24
 #spinner cycle
-   2
+   0
 #
    4,X
   10,R,J
@@ -795,4 +795,4 @@ EndStunPause
   12,R,U,C
  135
 
-ChapterTime: 2:03.658(7274)
+ChapterTime: 2:05.647(7391)
