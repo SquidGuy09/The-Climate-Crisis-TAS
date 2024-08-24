@@ -1,7 +1,7 @@
 # FangameMarathon2024_BlindRace
 # https://gamebanana.com/mods/527834
 
-RecordCount: 6838
+RecordCount: 9411
 
 console load FangameMarathon2024/BlindRace/BlindRace
    1
@@ -34,9 +34,6 @@ console load FangameMarathon2024/BlindRace/BlindRace
 
 #lvl_a-intro
   24
-#spinner cycle
-   0
-#
    4,X
   10,R,J
    5,K,G
@@ -44,42 +41,44 @@ console load FangameMarathon2024/BlindRace/BlindRace
   10,R,D,X
    5,R,J
   15,R,D,X
-  12,R,J
-   7,R,D,X
-   3,R,K,G
-   8,R,J,G
+   7,R,J
+   7,R
+   5,R,D,X
+   1,R,K,G
+   1,R,K
+   4,R,J,G
    5,R
    3,R,J
    1,R
-   9,R,J
-   5,R
-   5,R,J
+  23,R,J
   15,U,X
    3
-   3,R
+   4,L
    1,R,J
-  41,R,D
-   5,R
+  38,R,D
+   8,R
   15,R,Z
-   2,R
+   3,R
   15,R,V
-   5,R
-  10,L,U,X
+   3,R
+   9,L,U,X
    6
   41,R
    3
-   7,R,K,G
-   3
+  10,R,K,G
   11,J,G
    1,L,J
   14,R,K,G
    1,R,J,G
-   3,R,K,G
-  10,R
-   5
-   3,R
+   2,R,K,G
+   5,R
+   2,R,J
+   4,R
+   6
+   2,R
   40,R
   19,R,Z
+  
   14,R,V
    1,L,J
   14,L,Z
@@ -99,116 +98,116 @@ console load FangameMarathon2024/BlindRace/BlindRace
    4,R
    2,R,K
    5,R
-   1,R,K
+   3,R,K
   15,R
-  22,R,K
-StunPause 
-   9,R,K
-SkipInput 3 1
-  14,R,D,X
-SkipInput 3
+  30,R,K
+   1
+  11,R
+   1,R,J,G
+   4,J
    3
-   1,R,D,X
-   5,R,D
-EndStunPause
-   4,R,D
-  15,U,X
-  11,L,G
+   1,L
+   1,R
+   1,L
+   1,R
+   1,G
+  12,L
+  15,R,Z
+  19,L
+   3
+  12,L,J
+  12,L,K,G
+  10,L,J,G
+   8,K,G
+   2,R
+   3,R,J
+   8,R
    1
-   1,J
-  24,L,J
-  30,L
-   1,J
-  24,L,J
-  13,L
-   1,L,G
-   4,L,J,G
-  11,L
-  10,L,D,X
-  12,R,K
-   5,R
-  13,R,K
-  16,R,X
+  10,L,Z
+   1,R,K
+   1,R
+   4,R,K
+  15,R
+   2,R,D
+   1,R
+   1,R,D
+  15,R,X
   12,R
-# a-01
-   1
-# spinner cycle
-   6,R,Z
-   1,R,J
-   7,R
+   1,K,G
+   3,R
+   3
+   1,J
+   2
+   8,L
+   5,L,Z
+   1,R,K
+   1,R,J,G
+  11,R
    1,R,J
    6,R,D,X
   40
 
 #lvl_a-01 (spooooky)
-   7,R,D,X
+   5,R,D,X
    1,R,J
    7,R
-  12,R,J
-   1,K,G
-   5,L,K
-  10,R,U,X
-   6
-  10,L
-   3
-  15,R,U,X
-  15,R,C
-   7,D,X
-  25,R
-  18,R,C
-   6,R,X
-   6,R,J
-   2,R
-   1,L,K,G
-  10,R,K
-   7,R
-   1,R,G
-   2
-   1,R,G
-   3,R,K,G
-  11,R,D
-  10,D
-   6,L,D
-   7,L,G
-   7,J
-  15,R,Z
-   8,R
-  10
-  23,L
-  28,R
-   1,K
-   4,R,K
-   1,R
-   8,U,X
+   6,R,D,J
+   2,K
    1,J
-StunPause
-  12,J
-   2,L,J
-SkipInput 3 1
-  15,U,X
-SkipInput 3 1
-  12,U,C
-EndStunPause
-   2,U,C
-   2
-  12,J
-   2
-  15,R,U,Z
-  22,R
-   4
-   5,L,X
-   6
-  41,R
-   1,R,K,G
+   1,J
+  15,R,U,X
+  19,L
+  15,R,U,C
    1,R
-   1,R,K,G
-   3,R
-   2
-   1,R
+  15,R,X
    1
-# cycle a-02
+   7,D,C
+  21
+   4,R
+  17,R,X
+   6,R,C
+   8,R,K
+   1,L,J,G
+  11,R,J
+   3,R
+   5,R,K,G
+   7
+   1,G
+   6,J,G
+   1,L,J
+   1,K
+   1,J
+  13,J
+   5,R,J
+  15,L,U,Z
+  24,L
+   6,L,U,X
+  26,R
+   3,R,K,G
+   5,R
+   3,R,K
+   9,R
+   5,R
+  20,R,U,X
+  15,L,U,Z
+   4,L
+  15,L,X
+   2,R
+  10,L,Z
+  10,R,J
+   5,R
+   1,R,J
+   9,R
+   5,R,D
+   7,L,D,X
+  47,R
+   2,R,K,G
+   1,K
+   1,R,K
+   1,K
+   4
+   1,R
    2
-# 
    7,L,D,X
    2,R,J
    1,R
@@ -226,18 +225,38 @@ EndStunPause
    4,R,K,G
    6,R
    1,R,J
-   2,R
-StunPause
-   2,R
-   8,R,J
-SkipInput 3 1
-  15,R,D,X
-   3,R
-EndStunPause
    5,R
+   9,R,D,J
+   5,R
+   1,R,J
+  15,U,X
    4
-  15,D,X
-  11,D
+  15,L,Z
+   3,R,J
+   3,R
+   4
+   2,J
+   1,R
+   1,J
+   5
+   2,L
+   4,L,Z
+   1,R,J
+   5,R
+  12,R,J
+   2,R
+   5
+   2,J
+   1
+   1,J
+   9
+   5,D
+   3,R,D
+  10,R
+  10,R,D
+   1,R,D
+  14,D,X
+  21
    1,R,J,G
   37,D
    4,L,D
@@ -253,8 +272,7 @@ EndStunPause
    5,L
   14,L,J
   21,L,X
-   6
-   2,R
+   8,R
   15,R,D,X
   15,R,D,C
   15,R,D,X
@@ -266,8 +284,8 @@ EndStunPause
    1,R,J
    7,R
    1,R,J
-   7,R,K,G
-   3,R
+   6,R,K,G
+   4,R
    8,R,D,X
   40
 
@@ -276,8 +294,8 @@ EndStunPause
    4,R,J
    9,R,K,G
    1,R,J,G
-   3,J
-   6,R,J
+   4,J
+   5,R,J
   13,R,D,X
    3,R,J
   14,R,U,X
@@ -290,14 +308,16 @@ EndStunPause
 
 #lvl_hub (1)
   25
-   2
+# spinner cycle
+   0
+# 
    6,R,Z
    1,R,J
    7,R
    1,R,J
   15,R,D,X
    1,R
-  35
+  34
    8,L,Z
    1,L,J
    2,L
@@ -312,32 +332,34 @@ EndStunPause
    1,R
    1,R,J
   15,R
-   7,R,J
-  15,R,Z
-   1,L,J
-   4,R,J
+   3,R,J
+   1,J
+   8,R,J
+  10,R,D,X
+   1,R,J
+  56,R,D
   15,R,D,X
-  40,R,D
-  10,R,D
-   3
-   1,D
-   7,L,Z
-StunPause
+   5,R,D
+   2,R
+   1,R,D
+  10,R,Z
    1,L,J
    6,L
    1,L,J
-SkipInput 3 1
-  11,L,D,X
-   4,L,J
-SkipInput 3 1
-   8,L,U,Z
+   1,L
+   7,L,D,X
+   1,L,K,G
+   4,L
+StunPause
+   9,L
+   8,L,D,J
+   4,L
 EndStunPause
-   7,L,U,Z
-  10,L
-  28,D
+   7,L
+   1
+  15,D,X
    1,N
   26
-
 
 #lvl_combo-bc-00 (Tear)
   25
@@ -358,46 +380,43 @@ EndStunPause
   10,L
    1,K
    1,L,J,G
-  13,R,G
-  24,R,G
-   6,R
-  23,R,X
-  22,R,G
+   5,R,X
+  29,R,G
+   3,R
+  21,R,X
+   1,L
+  21,L,G
   18,U,X,G
   15,R,Z,G
    2,R
    1,R
-   5,R,J
+   3,R,J
+   1,R,Z
   13,R,Z
    1,R,J
    7,R
   14,L,Z
-   2,R,J
+   1,R,J
    5,R,D,X
   13,R,G
-  15,J,G
+  13,J,G
    1,R
-  16,R,U,X
-   4,R,J
-  32,R,K
   15,R,U,X
+  55,R,U,K,G
+   1,L
+   6,R
+  15,R,Z
+   6,R
+  11,R,D,J
    1,K
-  18,R
-   2,R,D
-   1,R
-   2,R,D
-   1,R,K,G
-   1,R,J,G
-  10,R
-  11,R,J
-  14,R,X
+   1
+  10,R,Z
+   6,J
    4,R,J
-   9,R
-   1,R,J
    1,R
   15,R,U,X
-  10,R
-   2,R,G
+   9,R
+   1,R,G
    4
    1,R,G
    2
@@ -406,16 +425,16 @@ EndStunPause
    1,R,G
    3
    1,R,G
-   5
+   6
    1,R,G
    1,R,K,G
-   8,R
-   6,R,J
-
+   7,R
+   7,R,D,J
   15,U,X
-   1
+   1,L
    1,L,K,G
-  12,L,J,G
+   1,L
+   9,L,K,G
    7,L
    7,L,J
    5,X
@@ -441,9 +460,9 @@ EndStunPause
    1,N
   24
 
-
 #lvl_combo-ab-00 (Spooooky)
   27
+   0
    5,L,Z
    1,R,J
    7,R
@@ -463,17 +482,18 @@ EndStunPause
    3,R,J
   61,R,X
   15,R,C
-   3,R
-   7
+   6,R
+   4
    7,L,X
   10,R,J
    9,R
    3,R,J
    6,R
-  17,R,Z
+  16,R,Z
   15,L,U,C
   24,L
-   3,L,G
+
+   4,L,G
    1,L
    1,L,G
   10,L
@@ -491,7 +511,8 @@ EndStunPause
   13,R,D
    1,R,D,J
    3,J
-   6,R,D,J
+   5,R,D,J
+   1,D,J
 StunPause 
    1,R,D
 SkipInput 3 1
@@ -575,7 +596,8 @@ EndStunPause
    3
   20,R,D
   16,L,D
-  16,R,D
+   8,R,D
+   8,D
   36,X
   12
   29,U,X
@@ -588,11 +610,11 @@ EndStunPause
   15,U,X
   11,L
    7,L,J
+   5,L,Z
+   1,L,J
    1,L
-  10,L,Z
-   2,L,J
-   3,L
-  17,L,D,X
+   4,L,J
+  18,L,D
    1,N
   25
 
@@ -617,34 +639,32 @@ EndStunPause
    1,R
   15,R,Z
    4,R
-  26
+   7
+   1,R,J
+   4
+   9,R
   14,R,Z
    1,L,J
-   7,L
+   6,L,D,X
+   1,L,K,G
+  12,L
    3,L,J
   15,L,D,X
    1,L,J
-   4,L
-  15,L,D,X
-   7,L,J
+  13,L,D,X
+   1,L,J
+   1,L,K,G
+   8,L,J,G
   40
 
 
 #lvl_hub-02
-   5,L,J
-   5,L
-   1,L
-   2,L
+   9,L,J
   15,L,D,X
-   2,L
-   1,L,J
-   1,L,K,G
-   1,L,J
-  16,L
-   1,L,J
-   2,L
+  12,L,J
   15,L,D,X
-   2,L
+
+   7,L
    1,N
   26
 
@@ -737,42 +757,35 @@ EndStunPause
   15,U,X
   13,L
    1,L,G
-  16,L,D
+  15,L,D
+   1,L
+   1,L,D
    1,L,G
-   1,L,K,G
+   1
+   1,K
    1,L,J,G
-   1,L,K,G
-  28,R,D
+  26,R,D
    1,R,J
-  15,R
-   4,R,J
+  14,R
+  15,D,X
+  22
+  14,R,Z
+   1,R,J
+  20,R,D,X
+   1,R,J
   15,R,D,X
-   4,D
-   8,L,D
-   4,Z
-   1,L,J
-   7,L
-   1,L,J
-   5,L
-   2,L,J
-  26,L,D
-   8,L,D,X
-   1,R,J
-   7,R
-   4,R,J
-  36,R
-  16,R,X
  350,R,C
    1
    8,R,U,X
-   2,R,K,G
+   1,R,K,G
    1,J
   40
 
 #lvl_combo-abc-heart
    1,R,K,G
    1,R
-   3,R,K,G
+   1,K,G
+   2,R,K,G
    2,R
    1,R,K,G
    3,R
@@ -795,4 +808,4 @@ EndStunPause
   12,R,U,C
  135
 
-ChapterTime: 2:05.647(7391)
+ChapterTime: 1:56.399(6847)
